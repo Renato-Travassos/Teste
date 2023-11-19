@@ -17,6 +17,10 @@ Caso sua função receba o inteiro 11, ela deve retornar 33, resultante do somat
 
 criei um "módulo" como função,assim você precisa apenas importar e usalo
 basta colocar Somar(),
-caso tenha dúvidas,basta ter o jest instalado para ver os testes
+caso tenha dúvidas,basta ter o jest instalado para ver os testes.
+
+
 Comando para instalar jest:npm install 
+
+
 Comando para rodar testes:npm test testes.test.js
